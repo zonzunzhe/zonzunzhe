@@ -27,7 +27,7 @@
 
 <div align="center">
 <a href="https://zonzunzhe.github.io/doom/">
-  <img src="doom-banner.png" alt="Click to play DOOM" width="600">
+  <img src="doom-preview.gif" alt="Click to play DOOM" width="600">
 </a>
 
 *Click the image to play the shareware episode. Arrow keys to move, Ctrl to fire, Space to open doors.*
