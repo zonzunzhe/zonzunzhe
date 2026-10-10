@@ -8,14 +8,12 @@
 
 ---
 
-<div align="left">
+<div align="center">
+  
+**M. Pradifta Arizona** , Informatics Engineering student at Universitas Mataram (UNRAM).
 
-## ⚙️ Dossier
-
-**M. Pradifta Arizona**, Informatics Engineering student at Universitas Mataram (UNRAM). I enjoy programming, operating systems, and learning how things work under the hood.
-
+I enjoy programming, operating systems, and learning how things work under the hood.
 </div>
-
 <div align="center">
 
 ## 🔧 Machine Spirits (Languages)
