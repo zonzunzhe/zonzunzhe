@@ -8,34 +8,56 @@
 
 ---
 
+<div align="left">
+
 ## ⚙️ Dossier
-**M. Pradifta Arizona** — Informatics Engineering student at Universitas Mataram (UNRAM). I enjoy programming, operating systems, and learning how things work under the hood.
+
+**M. Pradifta Arizona**, Informatics Engineering student at Universitas Mataram (UNRAM). I enjoy programming, operating systems, and learning how things work under the hood.
+
+</div>
+
+<div align="center">
 
 ## 🔧 Machine Spirits (Languages)
+
 ![C++](https://img.shields.io/badge/C++-8B0000?style=for-the-badge&logo=cplusplus&logoColor=D4AF37)
 ![Java](https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=openjdk&logoColor=D4AF37)
 ![JavaScript](https://img.shields.io/badge/JavaScript-8B0000?style=for-the-badge&logo=javascript&logoColor=D4AF37)
 ![More coming soon](https://img.shields.io/badge/More-Coming_Soon-1a1a1a?style=for-the-badge&labelColor=1a1a1a&color=D4AF37)
 
+</div>
+
+<div align="left">
+
 ## 📜 Campaign Records (Projects)
+
 - [**Vercel_lele**](https://github.com/zonzunzhe/Vercel_lele): rental website built with JavaScript and deployed on Vercel
 - [**OOP-Semester-3-**](https://github.com/zonzunzhe/OOP-Semester-3-): object-oriented programming coursework (Java)
 - [**Algodat**](https://github.com/zonzunzhe/Algodat): algorithms & data structures (Java)
 - [**alpro-zona**](https://github.com/zonzunzhe/alpro-zona): more algorithms & programming practice (C++)
 
-## 💀 Rite of Recreation: Play DOOM
+</div>
 
 <div align="center">
+
+## 💀 Rite of Recreation: Play DOOM
+
 <a href="https://zonzunzhe.github.io/doom/">
   <img src="doom-preview.gif" alt="Click to play DOOM" width="600">
 </a>
 
 *Click the image to play the shareware episode. Arrow keys to move, Ctrl to fire, Space to open doors.*
 Built with [js-dos](https://js-dos.com) and hosted on GitHub Pages.
+
 </div>
 
+<div align="left">
+
 ## 📡 Vox-Channel (Contact)
+
 - Email: mpdipta77@gmail.com
 - GitHub: [@zonzunzhe](https://github.com/zonzunzhe)
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,100:0d0d0d&height=120&section=footer" width="100%" alt="footer">
