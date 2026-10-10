@@ -6,12 +6,12 @@ Informatics Engineering student at Universitas Mataram (UNRAM). I enjoy programm
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![More of them will coming soon]
 
 ## 📂 Projects
 - [**Vercel_lele**](https://github.com/zonzunzhe/Vercel_lele): rental website built with JavaScript and deployed on Vercel
 - [**OOP-Semester-3-**](https://github.com/zonzunzhe/OOP-Semester-3-): object-oriented programming coursework (Java)
 - [**Algodat**](https://github.com/zonzunzhe/Algodat): algorithms & data structures (Java)
-- [**Praktikum-Alpro-2026-F1D02510070**](https://github.com/zonzunzhe/Praktikum-Alpro-2026-F1D02510070): algorithms & programming lab work (C++)
 - [**alpro-zona**](https://github.com/zonzunzhe/alpro-zona): more algorithms & programming practice (C++)
 
 ## 🎮 Take a break: play DOOM in your browser
